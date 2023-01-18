@@ -15,7 +15,7 @@ class pong:
   #Rik
   #def right_block(self):
 
-  #Pat
+  #Rik
   #def ball(self):
   
   #Pat
